@@ -13,6 +13,7 @@ html, body{
     max-width: 1200px;
     width: 100%;
     margin: 0 auto;
+    padding: 0 2%;
 }
 
 section.content-bg{
@@ -49,7 +50,8 @@ section.content .title{
 .form-container{
     z-index: 999;
     color: white;
-    width: 700px;
+    max-width: 700px;
+    width: 100%
     background-color: rgba(53, 0, 66, 0.863);
     box-shadow: 5px 2px 11px -3px rgba(193, 145, 248, 0.88);
     margin:  0 auto;
