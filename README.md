@@ -1,4 +1,4 @@
 # Formulario
 formulario html css nao esta responsivo ainda
-
-<img src="assents/1."
+<img src="assents/2.png"/>
+<img src="assents/1.png"/>
